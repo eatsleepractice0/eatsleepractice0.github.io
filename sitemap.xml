@@ -3,15 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>aseUrl=eatsleepractice0.github.io/categories/</loc>
+    <loc>https://eatsleepractice0.github.io/</loc>
+    <lastmod>2019-12-04T14:44:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>aseUrl=eatsleepractice0.github.io/</loc>
+    <loc>https://eatsleepractice0.github.io/post/new/</loc>
+    <lastmod>2019-12-04T14:44:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>aseUrl=eatsleepractice0.github.io/tags/</loc>
+    <loc>https://eatsleepractice0.github.io/post/</loc>
+    <lastmod>2019-12-04T14:44:09+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eatsleepractice0.github.io/about/</loc>
+    <lastmod>2019-12-04T14:42:16+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eatsleepractice0.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eatsleepractice0.github.io/tags/</loc>
   </url>
   
 </urlset>
